@@ -1,9 +1,5 @@
 body{
-	background-image: url(bgimg.png);
-	background-position:centor;
-	background-repeat:no-repeat;
 	background-color: #241c00;
-	width: 98vw;
 	font-size: 24px;
 	color: white;
 }
@@ -40,4 +36,20 @@ h1{
 	border-radius: 20px;
 	border-width: 6px;
 	border-color: #c08000;
+}
+.a5{
+	background-color: black;
+	border-color: black;
+	border-style: solid;
+	border-width: 50px;
+	border-bottom-style: solid;
+	border-bottom-color: #ffc90e;
+	border-bottom-width: 4px;
+}
+.a6{
+	font-size: 18px;
+	font-family: "Segoe Script","sans-serif;";
+}
+.a7{
+	text-align: center;
 }
