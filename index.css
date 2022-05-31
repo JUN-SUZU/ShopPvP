@@ -60,3 +60,14 @@ h1{
 .a8{
 	color: white;
 }
+.a9{
+	border-style: inset;
+	border-width: 30px;
+	border-color: #e8a800;
+	text-align: center;
+	box-sizing: content-box ;
+	width: 50%;
+	margin-left: 22%;
+	margin-top: 10%;
+	margin-bottom: 10%;
+}
